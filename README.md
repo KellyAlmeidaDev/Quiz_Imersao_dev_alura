@@ -1,5 +1,6 @@
 # Quiz Interativo Simples - Imersão Dev Alura
-Este repositório contém o projeto de um Quiz Simples de Perguntas e Respostas, desenvolvido como parte dos exercícios da Imersão Dev Front-end da Alura. O projeto é uma ferramenta de aprendizado focada na aplicação prática dos fundamentos do desenvolvimento web, estruturado para ser uma base sólida para a construção de interfaces interativas.
+Este repositório contém o projeto de um Quiz Simples de Perguntas e Respostas, desenvolvido como parte dos exercícios da Imersão Dev Front-end da Alura. 
+O projeto é uma ferramenta de aprendizado focada na aplicação prática dos fundamentos do desenvolvimento web, estruturado para ser uma base sólida para a construção de interfaces interativas.
  
 ## Objetivo de Aprendizagem
 O principal objetivo deste projeto é fixar e consolidar os comandos principais e a sintaxe fundamental de:
